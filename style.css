@@ -136,7 +136,7 @@ body{
 
 .hobbies .li_wrap{
 	/* ganti warna garis kotak Hobbies */
-	bor#42445Ader: 2px solid #fff;
+	border: 2px solid #fff;
 }
 
 .hobbies .li_wrap .icon,
